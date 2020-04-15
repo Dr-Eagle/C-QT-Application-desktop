@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Sound">
+        <file>Background.mp3</file>
+        <file>Click.mp3</file>
+        <file>Intro.mpg</file>
+        <file>Beautiful Light Music - easy smooth inspirational - long playlist by relaxdaily Ocean Breeze.mp3</file>
+    </qresource>
+</RCC>
